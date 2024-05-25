@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html class="text-sm lg:text-base dark" style="--bg:#fbfbfb" lang="es">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <title>Mi experiencia - MindsetFps Blog</title>
+    <meta name="theme-color" content="#000">
+    <meta name="description"
+        content="Newstar Clan Academy LDM Esports Estral Azteca Esports Fansitos Show Newstar Julio, 2021 - Presente Community manager en Newstar. Creo contenido y cubro eventos de esports para las comunidades de League Of Legends, Free Fire, Rainbow Six y Valorant.
+Clan Academy Diciembre, 2021 - Noviembre 2022 Community manager y Content Manager. En Clan me encargue de creación y calendarización de Contenidos. Comunicación y manejo de influencers de gaming. Atención a clientes por los diversos canales de comunicación.">
+    <meta name="author" content="">
+    <meta property="og:image" content="https://">
+    <link rel="preload stylesheet" as="style" href="Mi%20experiencia%20-%20MindsetFps%20Blog_files/main.min.css">
+    <link rel="preload" as="image" href="https://example-blog-1gts.onrender.com/theme.png">
+    <link rel="preload" as="image" href="http://localhost:1313/images/img.png">
+    <link rel="preload" as="image" href="Mi%20experiencia%20-%20MindsetFps%20Blog_files/twitter.svg">
+    <link rel="preload" as="image" href="https://example-blog-1gts.onrender.com/github.svg">
+    <link rel="preload" as="image" href="Mi%20experiencia%20-%20MindsetFps%20Blog_files/instagram.svg">
+    <link rel="icon" href="https://example-blog-1gts.onrender.com/favicon.ico">
+    <link rel="apple-touch-icon" href="https://example-blog-1gts.onrender.com/apple-touch-icon.png">
+    <meta name="generator" content="Hugo 0.122.0">
+    <meta property="og:title" content="Mi experiencia">
+    <meta property="og:description"
+        content="Newstar Clan Academy LDM Esports Estral Azteca Esports Fansitos Show Newstar Julio, 2021 - Presente Community manager en Newstar. Creo contenido y cubro eventos de esports para las comunidades de League Of Legends, Free Fire, Rainbow Six y Valorant.
+Clan Academy Diciembre, 2021 - Noviembre 2022 Community manager y Content Manager. En Clan me encargue de creación y calendarización de Contenidos. Comunicación y manejo de influencers de gaming. Atención a clientes por los diversos canales de comunicación.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://example-blog-1gts.onrender.com/post/resume/">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2022-11-16T03:29:51-06:00">
+    <meta property="article:modified_time" content="2022-11-16T03:29:51-06:00">
+    <meta itemprop="name" content="Mi experiencia">
+    <meta itemprop="description"
+        content="Newstar Clan Academy LDM Esports Estral Azteca Esports Fansitos Show Newstar Julio, 2021 - Presente Community manager en Newstar. Creo contenido y cubro eventos de esports para las comunidades de League Of Legends, Free Fire, Rainbow Six y Valorant.
+Clan Academy Diciembre, 2021 - Noviembre 2022 Community manager y Content Manager. En Clan me encargue de creación y calendarización de Contenidos. Comunicación y manejo de influencers de gaming. Atención a clientes por los diversos canales de comunicación.">
+    <meta itemprop="datePublished" content="2022-11-16T03:29:51-06:00">
+    <meta itemprop="dateModified" content="2022-11-16T03:29:51-06:00">
+    <meta itemprop="wordCount" content="212">
+    <meta itemprop="keywords"
+        content="league of legends,rainbow 6,free fire,valorant,facebook,twitter,instgram,tiktok,discord,bots,">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Mi experiencia">
+    <meta name="twitter:description"
+        content="Newstar Clan Academy LDM Esports Estral Azteca Esports Fansitos Show Newstar Julio, 2021 - Presente Community manager en Newstar. Creo contenido y cubro eventos de esports para las comunidades de League Of Legends, Free Fire, Rainbow Six y Valorant.
+Clan Academy Diciembre, 2021 - Noviembre 2022 Community manager y Content Manager. En Clan me encargue de creación y calendarización de Contenidos. Comunicación y manejo de influencers de gaming. Atención a clientes por los diversos canales de comunicación.">
+</head>
+
+<body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[5rem] max-w-3xl px-8 lg:justify-center hide-when-printing">
+        <div class="relative z-50 mr-auto flex items-center"><a
+                class="-translate-x-[1px] -translate-y-0.5 text-3xl font-bold"
+                href="https://example-blog-1gts.onrender.com/">MindsetFps Blog</a>
+            <a
+                class="btn-dark ml-6 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"></a>
+        </div><a
+            class="btn-menu relative z-50 -mr-8 flex h-[5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"></a>
+        <script>const htmlClass = document.documentElement.classList; setTimeout(() => { htmlClass.remove("not-ready") }, 10); const btnMenu = document.querySelector(".btn-menu"); btnMenu.addEventListener("click", () => { htmlClass.toggle("open") }); const metaTheme = document.querySelector('meta[name="theme-color"]'), lightBg = `#fbfbfb`.replace(/"/g, ""), setDark = e => { metaTheme.setAttribute("content", e ? "#000" : lightBg), htmlClass[e ? "add" : "remove"]("dark"), localStorage.setItem("dark", e) }, darkScheme = window.matchMedia("(prefers-color-scheme: dark)"); if (htmlClass.contains("dark")) setDark(!0); else { const e = localStorage.getItem("dark"); setDark(e ? e === "true" : darkScheme.matches) } darkScheme.addEventListener("change", e => { setDark(e.matches) }); const btnDark = document.querySelector(".btn-dark"); btnDark.addEventListener("click", () => { setDark(localStorage.getItem("dark") !== "true") })</script>
+        <div
+            class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none">
+            <nav class="lg:ml-12 flex flex-col lg:flex-row lg:items-center lg:space-x-6"><a
+                    class="text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+                    href="https://example-blog-1gts.onrender.com/en/">🇺🇸</a>
+                <a class="text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+                    href="https://example-blog-1gts.onrender.com/about/">About</a>
+                <a class="text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+                    href="https://example-blog-1gts.onrender.com/contact/">Contact</a>
+            </nav>
+            <nav class="mt-12 flex justify-center space-x-10 dark:invert lg:mt-0 lg:ml-12 lg:items-center lg:space-x-6">
+                <a class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+                    style="--url:url(./twitter.svg)" href="https://twitter.com/mindsetfps" target="_blank"></a><a
+                    class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+                    style="--url:url(./github.svg)" href="https://github.com/mindsetfps" target="_blank"></a><a
+                    class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+                    style="--url:url(./instagram.svg)" href="https://instagram.com/i.like.games.uwu"
+                    target="_blank"></a></nav>
+        </div>
+    </header>
+    <main
+        class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-20 pb-32 dark:prose-invert">
+        <article>
+            <header class="mb-12">
+                <h1 class="!my-0 pb-2.5">Mi experiencia</h1>
+                <div class="text-sm opacity-60 hide-when-printing"><time>16 nov. 2022</time></div>
+            </header>
+            <section>
+                <div class="hide-when-printing">
+                    <ul>
+                        <li><a href="#newstar">Newstar</a></li>
+                        <li><a href="#clan-academy">Clan Academy</a></li>
+                        <li><a href="#ldm-esports">LDM Esports</a></li>
+                        <li><a href="#estral-esports">Estral</a></li>
+                        <li><a href="#azteca-esports">Azteca Esports</a></li>
+                        <li><a href="#fansitos-show">Fansitos Show</a></li>
+                    </ul>
+                </div>
+                <hr>
+                <div class="prose flex dark:invert space-x-3 items-center">
+                    <h2 id="newstar" class="prose mx-0 my-0 text-3xl">Newstar</h2><a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./twitter.svg)" href="https://twitter.com/newstargg" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/twitter.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./instagram.svg)" href="https://www.instagram.com/newstargg/"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/instagram.svg"></a> <a
+                        class="prose h-8 w-8 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./tiktok.svg)" href="https://www.tiktok.com/@newstargg" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/tiktok.svg"></a>
+                </div>Julio, 2021 - Presente<p>Community
+                    manager en Newstar. Creo contenido y cubro eventos de esports para las
+                    comunidades de League Of Legends, Free Fire, Rainbow Six y Valorant.</p>
+                <div class="grid grid-cols-2 gap-4 mt-8 hide-when-printing"><a
+                        href="https://twitter.com/newstargg/status/1558640049280925696" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H90vsm7.md.png">
+                    </a><a href="https://twitter.com/newstargg/status/1586526522436993024" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H90Vinp.md.png">
+                    </a><a href="https://twitter.com/newstargg/status/1578568929559326722" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H90MbhQ.md.png">
+                    </a><a href="https://twitter.com/newstargg/status/1568394110985199618" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H90WGiN.md.png"></a>
+                </div>
+                <hr>
+                <div class="prose flex dark:invert space-x-3 items-center">
+                    <h2 id="clan-academy" class="prose mx-0 my-0 text-3xl">Clan Academy</h2><a
+                        class="prose h-8 w-8 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./facebook.svg)" href="https://www.facebook.com/clan.academia"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/facebook.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./twitter.svg)" href="https://twitter.com/clan_academy" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/twitter.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./instagram.svg)" href="https://www.instagram.com/clan.academy"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/instagram.svg"></a> <a
+                        class="prose h-8 w-8 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./tiktok.svg)" href="https://www.tiktok.com/@clan.academy" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/tiktok.svg"></a>
+                </div>Diciembre, 2021 - Noviembre 2022<p>Community
+                    manager y Content Manager. En Clan me encargue de creación y
+                    calendarización de Contenidos. Comunicación y manejo de influencers de
+                    gaming. Atención a clientes por los diversos canales de comunicación.
+                    Diseño de la landing pages y moderación de servidores de Discord, y
+                    creación de bots para el mismo, completamente personalizados con bases
+                    de datos y gamificados.</p>
+                <div class="grid grid-cols-2 gap-4 mt-8 hide-when-printing"><a
+                        href="https://twitter.com/clan_academy/status/1515115026000093185" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/HfzBmlV.md.png">
+                    </a><a href="https://twitter.com/clan_academy/status/1563700260572221445" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/HfxpNwB.md.png">
+                    </a><a href="https://www.instagram.com/p/ChX7Fpro79p/" target="_blank"><img class="mt-0 mb-0"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/HfATvQ2.md.png">
+                    </a><a href="https://www.instagram.com/p/CdO82eRuUWp/" target="_blank"><img class="mt-0 mb-0"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/HfA5v9e.md.png"></a></div>
+                <hr>
+                <div class="prose flex dark:invert space-x-3 items-center">
+                    <h2 id="ldm-esports" class="prose mx-0 my-0 text-3xl">LDM Esports</h2><a
+                        class="prose h-8 w-8 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./facebook.svg)" href="https://www.facebook.com/Piratedreamg9"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/facebook.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./twitter.svg)" href="https://twitter.com/piratedreamgg" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/twitter.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./instagram.svg)" href="https://www.instagram.com/piratedreamgg/"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/instagram.svg"></a>
+                </div>Mayo, 2021 - Julio, 2021<p>Community
+                    manager. Creación de contenido irreverente con foco en la gran
+                    comunidad que se había creado anteriormente, con mas de 35mil
+                    seguidores.</p>
+                <div class="grid grid-cols-2 gap-4 mt-8 hide-when-printing"><a
+                        href="https://twitter.com/PirateDreamgg/status/1402768214027816964" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H9MUmYu.md.png">
+                    </a><a href="https://twitter.com/PirateDreamgg/status/1405227423969521668" target="_blank"><img
+                            class="mt-0 mb-0" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H9MUv1t.md.png">
+                    </a><a href="https://www.instagram.com/p/CQPbJiInlGx/" target="_blank"><img class="mt-0 mb-0"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H9GZs7S.md.png">
+                    </a><a href="https://www.instagram.com/p/CQeuUPUgE-B/" target="_blank"><img class="mt-0 mb-0"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/H9GDQWu.md.png"></a></div>
+                <hr>
+                <div class="prose flex dark:invert space-x-3 items-center">
+                    <h2 id="estral-esports" class="prose mx-0 my-0 text-3xl">Estral Esports</h2><a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./twitter.svg)" href="https://twitter.com/EstralEsports" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/twitter.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./instagram.svg)" href="https://www.instagram.com/estralesports/"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/instagram.svg"></a>
+                </div>Marzo, 2020 - Julio, 2020<p>Creador
+                    de contenido. Durante mi tiempo en Estral los apoye en crear una
+                    comunidad de manera orgánica y contenido que conecte con la comunidad de
+                    League Of Legends de Latinoamérica y Mexico.</p>
+                <hr>
+                <div class="prose flex dark:invert space-x-3 items-center">
+                    <h2 id="azteca-esports" class="prose mx-0 my-0 text-3xl">Azteca Esports</h2><a
+                        class="prose h-8 w-8 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./facebook.svg)" href="https://www.facebook.com/TvAztecaEsports"
+                        target="_blank"><img class="imagen"
+                            src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/facebook.svg"></a> <a
+                        class="prose h-6 w-6 [background:var(--url)_center_center/cover_no-repeat]"
+                        style="--url:url(./twitter.svg)" href="https://twitter.com/TVAztecaEsports" target="_blank"><img
+                            class="imagen" src="Mi%20experiencia%20-%20MindsetFps%20Blog_files/twitter.svg"></a>
+                </div>Mayo, 2021 - Julio, 2021<p>Durante
+                    el Mundial de League Of Legends de 2020 fui invitado a comentar las
+                    jornadas en un programada semanal llamado “Desde el Nexo”.</p>
+                <hr>
+                <div class="prose flex dark:invert space-x-3 items-center">
+                    <h2 id="fansitos-show" class="prose mx-0 my-0 text-3xl">Fansitos Show</h2>
+                </div>Mayo, 2021 - Julio, 2021
+                <hr>
+                <div class="show-when-printing">Ver completo en
+                    <a href="https://example-blog-1gts.onrender.com/">https://example-blog-1gts.onrender.com/</a>
+                </div>
+                <style>
+                    .show-when-printing {
+                        display: none
+                    }
+
+                    @media print {
+                        .show-when-printing {
+                            display: block
+                        }
+                    }
+                </style>
+                <style>
+                    @media print {
+                        .hide-when-printing {
+                            display: none
+                        }
+
+                        svg {
+                            color: #000
+                        }
+                    }
+
+                    .slide {
+                        display: flex;
+                        width: 1000px;
+                        height: 200px;
+                        background-color: #fff
+                    }
+
+                    .block {
+                        height: 100px;
+                        width: 100px;
+                        background-color: #fff
+                    }
+                </style>
+            </section>
+            <footer class="mt-12 flex flex-wrap hide-when-printing"><a
+                    class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/league-of-legends">league of legends</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/rainbow-6">rainbow 6</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/free-fire">free fire</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/valorant">valorant</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/facebook">facebook</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/twitter">twitter</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/instgram">instgram</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/tiktok">tiktok</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/discord">discord</a>
+                <a class="mr-1.5 mb-1.5 rounded-lg bg-black/[3%] px-5 py-2 no-underline dark:bg-white/[8%]"
+                    href="https://example-blog-1gts.onrender.com/tags/bots">bots</a>
+            </footer>
+        </article>
+    </main>
+    <footer class="opaco mx-auto flex h-[5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60 hide-when-printing">
+        <div class="mr-auto">© 2024
+            <a class="link" href="https://example-blog-1gts.onrender.com/">MindsetFps Blog</a>
+        </div><a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank">Powered by Hugo️️</a>️
+        <a class="link" href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">▷ Paper 6</a>
+    </footer>
+</body>
+
+</html>
